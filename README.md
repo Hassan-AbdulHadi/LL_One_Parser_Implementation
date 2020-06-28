@@ -27,17 +27,17 @@ struct mystruct
 {
 	class myclass2 
 	{
-	int foo2 ( ) ;
-	struct mystruct2
-	{
-		void foo3 ( int a ) ;
-		class myclass3
+		int foo2 ( ) ;
+		struct mystruct2
 		{
-		} ; 
+			void foo3 ( int a ) ;
+			class myclass3
+			{
+			} ; 
+		} ;
 	} ;
-} ;
-int a ;
-int b [ x ] ;
+	int a ;
+	int b [ x ] ;
 } ;
 }
 ```
