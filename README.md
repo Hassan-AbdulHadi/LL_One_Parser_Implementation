@@ -1,4 +1,4 @@
-## Recursive decent parser with a single look-ahead
+## Recursive descent parser with a single look-ahead
 ### A humble attempt to code a parser!
 **This is a small project for a Compilers course**
 
