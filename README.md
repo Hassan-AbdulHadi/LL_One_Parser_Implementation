@@ -1,6 +1,6 @@
 ## Recursive descent parser with a single look-ahead
 ### A humble attempt to code a parser!
-**This is a small project for a Compilers course**
+**This is a small-One week- project for a Compilers course**
 
 **Grammar:**
 ```
