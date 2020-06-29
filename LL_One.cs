@@ -375,7 +375,7 @@ namespace LLOneParser
 
     class LexicalAnalyzer
     {
-        //Lexical analyzer siplts by white spaces for know 
+        //Lexical analyzer siplts by white spaces for now 
         public static string[] GetLexemes(string input)
         {
             char[] separators = { ' ', '\r' };
